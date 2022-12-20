@@ -24,6 +24,6 @@ _You **can** combine them_
 2. Prepare ingredients  
 3. Cook delicious things
 
-![Alt Text](url)
+![Alt Text](https://camo.githubusercontent.com/a11579935891f044bcf8d1f7fedd385f30d95fd814d2cc0833d73e50da82396e/687474703a2f2f692e696d6775722e636f6d2f76384956446b612e6a7067)
 [link](http://example.com)
 <button class="button-save large">Big Fat Button</button>
